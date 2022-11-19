@@ -5,6 +5,7 @@ A Buizel PNGTuber for use with [veadotube mini](https://olmewe.itch.io/veadotube
 
 Now you get to experience what it's like being a Buizel online.
 
+Check out this [overview video](https://www.youtube.com/watch?v=sxKS0yJf_qQ) to see it in action.
 ## Setting up
 
 Just open the .veadomini file with veadotube.
